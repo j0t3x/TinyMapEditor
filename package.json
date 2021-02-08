@@ -1,0 +1,19 @@
+{
+  "name": "tinymapeditor",
+  "version": "1.0.0",
+  "description": "A super-basic JavaScript map editor for HTML5 games.  Useful for creating a lightweight JSON collision layer (think 2d platformer collisions, grid masks in puzzle games, brick position in Breakout, etc).",
+  "main": "tileEditor.js",
+  "scripts": {
+    "dev": "cd public && static-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0t3x/TinyMapEditor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j0t3x/TinyMapEditor/issues"
+  },
+  "homepage": "https://github.com/j0t3x/TinyMapEditor#readme"
+}
